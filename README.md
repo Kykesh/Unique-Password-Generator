@@ -61,4 +61,5 @@ As an employee with access to sensitive data,
 
 ![Screenshot](/Password-Generator/Unique-Password-Generator/images/Website-SS.png)
 
-- Deploy application: 
+- Deploy application: https://kykesh.github.io/Unique-Password-Generator/
+
